@@ -1,0 +1,21 @@
+# Entornos virtuales
+venv/
+mcp-venv/
+
+# Modelos y bases de datos pesadas
+models/
+wikipedia/
+
+# Proyectos compilados / submódulos
+llama.cpp/
+
+# Respaldos y organización temporal
+OLD/
+scripts/
+
+# Archivos temporales y logs de sistema
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+
